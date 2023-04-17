@@ -1,7 +1,7 @@
 # Asterisk p5.js Tattoo Generator
 
 ## Live prod
-[https://neverformal-webgl.vercel.app](https://neverformal-webgl.vercel.app)
+[https://asterisk-ttt-generator.vercel.app](https://asterisk-ttt-generator.vercel.app)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
